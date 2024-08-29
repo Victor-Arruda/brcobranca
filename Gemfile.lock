@@ -4,7 +4,7 @@ PATH
     brcobranca (11.0.0)
       fast_blank
       parseline (>= 1.0.3)
-      rghost (>= 0.9.8)
+      rghost (~> 0.9.8)
       rghost_barcode (>= 0.9)
 
 GEM
